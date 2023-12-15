@@ -1,15 +1,9 @@
 ### Hello there 👋
 
-#### Codewars stats:
-<img src="https://www.codewars.com/users/makridenko/badges/large" />
+My name is Alexey Makridenko, and I've been working as a Python backend developer since 2015. I have a passion for programming and constantly strive to enhance my skills and learn new technologies.
 
-#### StackOverflow stats:
-[![My StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=18281310&layout=compact&theme=dark)](https://stackoverflow.com/users/18281310/alexey-makridenko)
-
-#### Profile trophy:
-[![trophy](https://github-profile-trophy.vercel.app/?username=makridenko&theme=onedark)](https://github.com/makridenko)
+My primary framework of expertise is Django, and I thoroughly enjoy working with it. Currently, I am immersed in the fintech sector and I am deeply interested in advancing my career in this domain.
 
 #### Social
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexey-makridenko-81a052197)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/makridenko)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/makridenko)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/a_makridenko)
