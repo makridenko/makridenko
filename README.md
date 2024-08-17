@@ -1,10 +1,10 @@
 ### Hello there 👋
 
-My name is Alexey Makridenko, and I've been working as a Python backend developer since 2015. I have a passion for programming and constantly strive to enhance my skills and learn new technologies.
+[<img align="left" alt="makridenko | Gmail" width="22px" src="https://cdn.simpleicons.org/gmail/black/white" />](mailto:alexey.makridenko@gmail.com)
+[<img align="left" alt="makridenko | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/black/white" />](https://www.linkedin.com/in/makridenko)
+[<img align="left" alt="makridenko | X" width="22px" src="https://cdn.simpleicons.org/x/black/white" />](https://x.com/a_makridenko)
+[<img align="left" alt="makridenko | Telegram" width="22px" src="https://cdn.simpleicons.org/telegram/black/white" />](https://t.me/yet_another_geek_channel)
+<br/>
 
-My primary framework of expertise is Django, and I thoroughly enjoy working with it. Currently, I am immersed in the fintech sector and I am deeply interested in advancing my career in this domain.
+Alexey Makridenko. Python Backend Developer. Open to work.
 
-***
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/makridenko)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/makridenko)
