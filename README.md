@@ -4,5 +4,5 @@
 [<img align="left" alt="makridenko | Telegram" width="22px" src="https://cdn.simpleicons.org/telegram/black/white" />](https://t.me/makridenko_blog)
 <br/>
 
-Alexey Makridenko. Python Backend Developer. Open to work.
+Alexey Makridenko. Python Backend Developer at @investengine.
 
