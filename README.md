@@ -8,7 +8,7 @@ Alexey Makridenko. Python Backend Developer at @investengine.
 </ul>
 
 OSS Contributions:
-- [CPython](https://github.com/python/cpython/pulls?q=is%3Apr+author%3Amakridenko) -- 1 merged PRs
 - [mypy](https://github.com/python/mypy/pulls?q=is%3Apr+author%3Amakridenko) -- 3 merged PRs
+- [CPython](https://github.com/python/cpython/pulls?q=is%3Apr+author%3Amakridenko) -- 1 merged PRs
 - [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide/pulls?q=is%3Apr+author%3Amakridenko) -- 1 merged PRs
 
