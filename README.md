@@ -1,12 +1,13 @@
-[<img align="left" alt="makridenko | Gmail" width="22px" src="https://cdn.simpleicons.org/gmail/black/white" />](mailto:alexey.makridenko@gmail.com)
-[<img align="left" alt="makridenko | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/black/white" />](https://www.linkedin.com/in/makridenko)
-[<img align="left" alt="makridenko | X" width="22px" src="https://cdn.simpleicons.org/x/black/white" />](https://x.com/makridenko_a)
-[<img align="left" alt="makridenko | Telegram" width="22px" src="https://cdn.simpleicons.org/telegram/black/white" />](https://t.me/makridenko_blog)
-<br/>
-
 Alexey Makridenko. Python Backend Developer at @investengine.
 
-## OSS Contributions:
+<ul>
+  <li><a href="mailto:alexey.makridenko@gmail.com">Email</a></li>
+  <li><a href="https://www.linkedin.com/in/makridenko">LinkedIn</a></li>
+  <li><a href="https://t.me/makridenko_blog">Telegram</a></li>
+  <li><a href="https://x.com/makridenko_a">Twitter</a></li>
+</ul>
+
+### OSS Contributions:
 - [CPython](https://github.com/python/cpython/pulls?q=is%3Apr+author%3Amakridenko) — 1 merged PRs
 - [mypy](https://github.com/python/mypy/pulls?q=is%3Apr+author%3Amakridenko) — 3 merged PRs
 - [wemake-python-styleguide](https://github.com/wemake-services/wemake-python-styleguide/pulls?q=is%3Apr+author%3Amakridenko) — 1 merged PRs
